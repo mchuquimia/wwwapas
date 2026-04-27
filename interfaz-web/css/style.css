@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700;900&display=swap');
+
+/* En este punto se trabajará también con cualquier elemento que requiera color de
+fondo a través de la propiedad background-color, así como también se trabajará con la propiedad width, height, margin y padding de ser necesario en concordancia con el box-modeling o desarrollo del modelo caja. 
+
+. Incorporar en todos los casos el atributo alt.
+
+ */
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    background-color: #f2f2f2;
+    margin: 0;
+}
+
+img{
+    width:43%;
+    margin: 5%;
+}
+
+nav{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    margin-right: 50px;
+    margin-left: 40px;
+}
+
+nav h1{
+    margin-right: auto;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    color: #7A7A7A;
+    text-decoration: none;
+    margin-left: 100px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+header{
+    display: flex;
+}
+
+header, main{
+    margin: 0 auto;
+    width: 90%;
+}
+
+
+header h1{
+    font-size: 64px;
+}
+
+h1, strong{
+    font-weight: 700;
+}
+
+h1 strong{
+    font-family: "Coiny", cursive;
+    /* font-size: 117.33px */
+
+}
+
+header h1 strong{
+    font-size: 100px; /* font-size: 117.33px; */
+}
+
+h2{
+    font-weight: 400;
+    font-size: 26.66px;
+}
+
+h2, h3{
+    background-color: #FCEE21;
+    display: inline;
+}
+
+h3{
+    font-weight: 900;
+}
+
+.encolumnar{
+    display: flex; 
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    justify-content: space-between;
+}
+
+.section{
+    padding-right: 50px;
+}
+
+#servicios{
+    font-size: 40.86px;
+}
+
+ol{
+    font-weight: 400;
+    list-style-position: inside;    
+}
+
+li{
+    margin-bottom: 30px;
+}
+
+#empezamosComunicar {
+    background-color: #FCEE21;
+    font-size: 30px;
+}
+
+form{
+    font-weight: 700;
+    width: 48%;
+}
+
+label, textarea{
+    display: block;
+}
+
+input, textarea{
+    width: 90%;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px ;
+}
+
+em{
+    color: #C1272D;
+}
+
+.button{
+    width: 45%;
+    color: white;
+    background-color: black;
+    padding: 10px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+#contacto{
+    color: white;
+    background-color: black;
+    font-size: 51px;
+    width: 20%;
+    line-height: 100px;
+    display: inline;
+}
+
+aside img{
+    width: 5%;
+}
+
+footer{
+    background-color: #FCEE21;
+    display: flex;
+    height: 100px;
+    padding: 10px;
+    margin: 0;  
+    width: 100%;
+    align-items: center;
+}
