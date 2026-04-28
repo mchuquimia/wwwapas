@@ -17,10 +17,11 @@ servicios y ventajas de trabajar con esta empresa de Marketing digital y no otra
 [Demo](https://mchuquimia.github.io/Desarrollo-Web-con-HTML-Pescar/)
 
 ## Screenshots
+
 <img width="720" height="376" alt="Captura de pantalla 2026-04-27 a la(s) 9 13 22 p  m" src="https://github.com/user-attachments/assets/e4f82167-a5ff-4415-b8b5-656514e62367" />
-
+<br><br>
 <img width="720" height="376" alt="Captura de pantalla 2026-04-27 a la(s) 9 13 33 p  m" src="https://github.com/user-attachments/assets/36f68ac6-7229-4ff0-af2f-6c033f547f31" />
-
+<br><br>
 <img width="720" height="376" alt="Captura de pantalla 2026-04-27 a la(s) 9 13 44 p  m" src="https://github.com/user-attachments/assets/12a9f81c-0a50-4a6e-a103-74c8e555aa2e" />
 
 
